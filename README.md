@@ -52,7 +52,8 @@ All visualizations are automatically saved as `.png` files for reproducibility a
 ```text
 Data_Case/
 │
-├── Data_Case.ipynb        # Main analysis notebook
-├── Tables_Case.xlsx      # Source dataset
-├── Charts/               # Saved visualizations (.png)
-└── README.md             # Project documentation
+├── Data_Case.ipynb              # Main analysis notebook
+├── Tables_Case.xlsx             # Source dataset
+├── Case_PicPay_Tayná_Alves.ppt  # PPt Presentation
+├── Charts/                      # Saved visualizations (.png)
+└── README.md                    # Project documentation
